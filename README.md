@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [To Do App](https://github.com/Ammar-mahmoud/Tasks_to_do_app)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter, Node Js, PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ammar-mahmoud](https://github.com/Ammar-mahmoud)
 
